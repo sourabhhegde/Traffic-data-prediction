@@ -1,6 +1,6 @@
 # Traffic-data-prediction
 Overview
-This repository contains a Jupyter Notebook (Sourabh_hegde (2).ipynb) along with a dataset (Train_df - Train_df.csv) used to demonstrate a complete workflow for data analysis and visualization.
+This repository contains a Jupyter Notebook (Sourabh_hegde.ipynb) along with a dataset (Train_df - Train_df.csv) used to demonstrate a complete workflow for data analysis and visualization.
 
 Contents
 Dataset:
